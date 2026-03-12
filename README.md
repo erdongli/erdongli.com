@@ -1,4 +1,4 @@
-# erdongli.com
+# erdongli-com
 
 Personal site built with React, TypeScript, MUI, and Vite.
 
